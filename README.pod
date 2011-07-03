@@ -212,6 +212,8 @@ a side effect.
 Returns the I<\@depends> array reference passed to the service specified by
 I<$key> or an empty array reference if none was given.
 
+=back
+
 =head1 SEE ALSO
 
 L<Peco::Spec>, L<IOC::Container>, L<http://www.picocontainer.org>
